@@ -1,4 +1,4 @@
 studio
 ======
 
-Android CourseWare Management System for tertiary institution
+Android CourseWare Management Application for tertiary institution
